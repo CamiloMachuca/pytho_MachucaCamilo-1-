@@ -20,7 +20,3 @@ while True:
         break
     
   #Desarrollado por Camilo Machuca Vega TI 1090397640
-
-
-
-
