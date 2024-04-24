@@ -61,14 +61,14 @@ while buliano==True:# se crea un bucle while para proceder con los siguientes pu
                 datos.remove(evento)# se procede a eliminar ese evento
                 print("Evento eliminado correctamente")
                 
-    elif opcion=="5":# se elimina el programa
+    elif opcion=="5":# se finaliza el programa
         print("#######################################")
         print(" Se finalizo el programa gracias por participar")
         print("#######################################")
         buliano= False
 
 
-
+#Desarrollado por Camilo Machuca Vega TI 1090397640
 
 
 
