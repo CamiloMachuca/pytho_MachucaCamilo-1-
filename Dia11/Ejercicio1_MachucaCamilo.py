@@ -87,3 +87,4 @@ while buliano==True:# se crea un bucle while para proceder con los siguientes pu
         buliano= False
 
 
+#Desarrollado por Camilo Machuca Vega TI 1090397640

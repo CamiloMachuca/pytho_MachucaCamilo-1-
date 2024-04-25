@@ -34,9 +34,19 @@ while buliano==True:# se crea un bucle while para proceder con los siguientes pu
     elif opcion=="2":
         eve= input("Ingrese el nuevo evento: ") 
         id= input("Ingrese el id del evento: ")
+        actor_id=input("Ingrese el id del actor: ")
+        login= input("ingrese el login del autor: ")
+        url= input("Ingrese la url: ")
+        avatar_url=input("Ingrese el url del avatar: ")
+        actor={"id": actor_id, "login": login, "url": url, "avatar_url": avatar_url}
+
+
         nuevo_evento={"type": eve, "id": id}# se crea un diccionario con los datos ingresados por el usuario 
+        actor={"actor": actor}
+        nuevo_evento= actor
         miJson.append(nuevo_evento)# se ingresa ese diccionario a la variable datos
         print("Se guardo correctamente el evento")
+     
 
     elif opcion=="3":
         print("=====Eventos=====")
@@ -73,7 +83,7 @@ with open("eventos.json","w") as outfile:
         json.dump(crearEventos,outfile)
 
 
-
+#Desarrollado por Camilo Machuca Vega TI 1090397640
 
 
 
