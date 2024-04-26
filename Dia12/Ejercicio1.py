@@ -24,7 +24,7 @@ while buliano==True:# se crea un bucle while para proceder con los siguientes pu
         if miJson:
             print("======EVENTOS=====")
             for i, evento in enumerate(miJson,1):
-                print(f"{i}. {evento["type"]} -{evento["id"]}-{evento["actor"]}")
+                print(f"{i}. Evento: {evento["type"]} ID:-{evento["id"]} actor:{evento["actor"]}")
        
                 
    
@@ -51,7 +51,7 @@ while buliano==True:# se crea un bucle while para proceder con los siguientes pu
     elif opcion=="3":
         print("=====Eventos=====")
         for i, evento in enumerate (miJson, 1):
-            print(f"{i}. {evento["type"]} -{evento["id"]}")# se muestran los eventos
+            print(f"{i}. Evento:{evento["type"]} ID:-{evento["id"]} actor:{evento["actor"]}")# se muestran los eventos
         llave= input("ingrese el id del evento que quieres actualizar")# se pide el id del avento a actualizar
         busqueda=False# se define busqueda como False para asi luego serrar el bucle for
         for evento in miJson:
