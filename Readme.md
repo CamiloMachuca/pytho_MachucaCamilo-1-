@@ -142,6 +142,9 @@ Se realiza un programa de una plataforma de gestion
 Este programa cuenta con las siguientes opciones:
 1. Revisar estudiantes
 2. Modificar estudiante
+#
+# Tecnologías utilizadas 
+- Python 
 # Estructura del proyecto 
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 120933.png>)
 
@@ -152,9 +155,13 @@ Este programa cuenta con las siguientes opciones:
 
 ## Intrucciones de uso
 1. Debes tener instalada la aplicacion de visual studio code 
+
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 115720.png>)
+
 2. Debes tener la extencion de python instalada en visual studio code 
+
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 115358.png>)
+
 3. Debes tener instalada la aplicación de git bash
 
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 120027.png>)
