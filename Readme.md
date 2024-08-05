@@ -1,5 +1,5 @@
 # PROYECTOS PYTHON 
-Este repositorio contiene los proyectos que e realizado de python en los cuales tienen diferentes funciones o programas.
+Este repositorio contiene los proyectos que he realizado de python en los cuales hay diferentes funciones o programas.
 
 # Tabla de contenidos 
 Este repositorio cuenta con los siguientes proyectos
@@ -21,56 +21,56 @@ Este repositorio cuenta con los siguientes proyectos
 | 14| PracticaEjercicios |
 #
 # Dia1
-Se realizo un programa para mostrar los datos primitivos 
+Se realizó un programa para mostrar los datos primitivos 
 
 ## Descripción 
 En este programa se muestran los siguientes subprograma:
-1. Numero
+1. Número
 2. Decimal
 3. Booleano
 4. Cadena de texto
 5. Bucle for
 6. Bucle while
-7. Funcion con parametro sin retorno
-8. Funcion con parametro y retorno
-9. Funcion sin parametros con retorno
-10. Funcion sin parametros ni retorno
+7. Función con parámetro sin retorno
+8. Función con párametro y retorno
+9. Función sin párametros con retorno
+10. Función sin párametros ni retorno
 #
 # Dia2
 Se realizaron tres programas tipo juegos pequeños 
 ## Descripción 
-En este programa se encuentran los siguientes subprogras:
+En este programa se encuentran los siguientes subprogramas:
 1. realizar la serie de fibonacci
-2. Juego de adivinar el numero secreto en intentos infinitos.
-3. Juego de adivinar el numero secreto en 10 intentos.
+2. Juego de adivinar el número secreto en intentos infinitos.
+3. Juego de adivinar el número secreto en 10 intentos.
 #
 # Dia3
-Se realizo un programa que consiste en que el usuario nos proporcione un numero y que el programa verifique si es un numero primo o no
+Se realizó un programa que consiste en que el usuario nos proporcione un número y que el programa verifique si es un numero primo o no
 ## Descripción 
 En este programa cuenta con las siguientes opciones:
-1. verificar un numero
+1. verificar un número
 2. Detener el programa
-3. Obtener informacion adicional
+3. Obtener información adicional
 #
 # Dia4
-Se realizo un programa de cambio de $
+Se realizó un programa de cambio de $dinero
 ## Descripción 
 Este programa cambia la cantidad de dinero que tengamos en monedas de c10 c5 c1
 #
 # Dia5 
-Se realizo un programa para seleccionar el numero mayor y menor de una lista 
+Se realizo un programa para seleccionar el número mayor y menor de una lista 
 ## Descripción 
-En este programa podras seleccionar el tamaño de la lista ya que el sistema le genara los numeros de la lista 
+En este programa podrás seleccionar el tamaño de la lista, ya que el sistema le genara los numeros de la lista 
 #
 # Dia6
 Se realizaron dos programas para trabajar listas 
 ## Descripción 
 En estos programas se encuentra lo siguiente:
-1. Programa para eliminar el numero repetido de una lista.
+1. Programa para eliminar el número repetido de una lista.
 2. Programa para buscar los dos números que sumen igual a starget.
 #
 # Dia7
-Se creo un programa para hacer una tienda virtual .
+Se realizó un programa para hacer una tienda virtual.
 ## Descripción 
 Este programa cuenta con las siguientes opciones:
 1. Agregar productos al carrito.
@@ -83,9 +83,9 @@ Este programa cuenta con las siguientes opciones:
 Se crearon dos programas uno para las suscripciones y otro es una tienda de frutas.
 ## Descripción 
 En el primer programa cuenta con las siguientes opciones:
-1. comprar suscripcion.
-2. iniciar sesion.
-3. regalar una suscripcion.
+1. comprar suscripción.
+2. iniciar sesión.
+3. regalar una suscripción.
 4. mostrar suscripciones compradas y regaladas.
 5. cerrar programa.
 
@@ -93,10 +93,10 @@ En el segundo programa cuenta con las siguientes opciones:
 1. Permite ingresar el nombre de una fruta.
 2. Permite ingresar el precio de la fruta.
 3. Permite ingresar la cantidad disponible de la fruta.
-4. permite agrefar la cantidad de frutas que se requieran. 
+4. permite agregar la cantidad de frutas que se requieran. 
 
 # Dia9
-Se realizo un programa que consiste en una tienda.
+Se realizó un programa que consiste en una tienda.
 ## Descripción 
 Este programa cuenta con las opciones de:
 1. Agregar  productos al carrito.
@@ -104,12 +104,12 @@ Este programa cuenta con las opciones de:
 3. Salir del programa.
 
 # Dia10
-Se realizo un programa que permite encontrar el numero igual de una lista. 
+Se realizó un programa que permite encontrar el número igual de una lista. 
 ## Descripción 
-Este programa le pide al usuario que ingrese un numero y en una lista ya creada verifica si hay un numero igual al dado por el usuario.
+Este programa le pide al usuario que ingrese un número y en una lista ya creada verifica si hay un número igual al dado por el usuario.
 
 # Dia11
-se realizo un programa el cual puede extraer datos de un json.
+se realizó un programa el cual puede extraer datos de un json.
 ## Descripción 
 El programa cuenta con las siguientes opciones:
 1. revisar Eventos.
@@ -119,7 +119,7 @@ El programa cuenta con las siguientes opciones:
 5. salir del programa.
 #
 # Dia12
-se realizo un programa el cual puede extraer datos de un json.
+se realizó un programa el cual puede extraer datos de un json.
 ## Descripción 
 El programa cuenta con las siguientes opciones:
 1. revisar Eventos.
@@ -128,7 +128,7 @@ El programa cuenta con las siguientes opciones:
 4. Eliminar eventos.
 5. salir del programa.
 # Dia13
-Se realiza un programa de una plataforma de gestion
+Se realizó un programa de una plataforma de gestión
 ## Descripción 
 Este programa cuenta con las siguientes opciones:
 1. Revisar estudiantes
@@ -137,7 +137,7 @@ Este programa cuenta con las siguientes opciones:
 4. Eliminar estudiante
 5. Salir del programa
 # PracticaEjercicios
-Se realiza un programa de una plataforma de gestion
+Se realiza un programa de una plataforma de gestión
 ## Descripción 
 Este programa cuenta con las siguientes opciones:
 1. Revisar estudiantes
@@ -153,12 +153,12 @@ Este programa cuenta con las siguientes opciones:
 
 - Archivos [json]: Estos contienen los datos a utilizar en los archivos python.py
 
-## Intrucciones de uso
-1. Debes tener instalada la aplicacion de visual studio code 
+## Instrucciones de uso
+1. Debes tener instalada la aplicación de visual studio code 
 
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 115720.png>)
 
-2. Debes tener la extencion de python instalada en visual studio code 
+2. Debes tener la extensión de python instalada en visual studio code 
 
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 115358.png>)
 
@@ -169,7 +169,7 @@ Este programa cuenta con las siguientes opciones:
 4. clonar el repositorio y abrirlo en un servicio compatible. 
 - Para clonar el repositorio escribe el siguiente comando en git bash
 ```bash
-git clone https://github.com/CamiloMachuca/Filtro_HTML_MachucaCamilo.git
+git clone https://github.com/CamiloMachuca/python_MachucaCamilo-1-.git
 ``` 
 
 5. Abrir el repositorio en visual studio code
