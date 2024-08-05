@@ -166,9 +166,11 @@ git clone https://github.com/CamiloMachuca/Filtro_HTML_MachucaCamilo.git
 ``` 
 
 5. Abrir el repositorio en visual studio code
+
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 120347.png>)
 
 6. Ejecutar el programa en la opción de visual studio code 
+
 ![alt text](<imagenes/Captura de pantalla 2024-08-05 120554.png>)
 
 ## Desarrollado por: 
